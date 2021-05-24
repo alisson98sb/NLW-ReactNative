@@ -27,7 +27,8 @@
 <!-- Status -->
 
 <h4 align="center"> 
-	🚧  Plant Manager 🚀 Em construção...  🚧
+	🚧  Plant Manager 🚀 
+	
 </h4>
 
 <hr>
@@ -91,7 +92,7 @@ $ yarn start
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-Feito com :heart: por <a href="https://github.com/JulianePires" target="_blank">Juliane Pires</a>
+
 
 &#xa0;
 
